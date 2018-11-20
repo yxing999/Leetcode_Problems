@@ -74,6 +74,8 @@ To make t*△i+△j is also unique, I need to think about the size of t:
 the range of △i is (-n,n), when multiplied by t, it becomes (-n*t,n*t).
 the range of △j is (-n,n), to make new int unique, the difference of adjacet elements of t*△i should be bigger than range(-n,n).
 So, t>2*n-1.
+Time: O(n^2+ab), a,b are number of 1 in A,B.
+Space: O(n^2)
 */
 class Solution {
 public:
@@ -94,6 +96,37 @@ public:
                 int di=a.first-b.first;
                 int dj=a.second-b.second;
                 count[t*di+dj]++;
+            }
+        }
+        int res=0;
+        for(auto ele:count)
+            res=max(res,ele.second);
+        return res;
+    }
+};
+
+/*
+The STL map of C++ support pair<int,int> as its key,
+So the solution can be:
+*/
+class Solution {
+public:
+    int largestOverlap(vector<vector<int>>& A, vector<vector<int>>& B) {
+        int n=A.size();
+        vector<pair<int,int>> va;
+        vector<pair<int,int>> vb;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(A[i][j]) va.push_back({i,j});
+                if(B[i][j]) vb.push_back({i,j});
+            }
+        }
+        map<pair<int,int>,int> count;
+        for(auto a:va){
+            for(auto b:vb){
+                int di=a.first-b.first;
+                int dj=a.second-b.second;
+                count[{di,dj}]++;
             }
         }
         int res=0;
