@@ -106,7 +106,7 @@ public:
 };
 
 /*
-The STL map of C++ support pair<int,int> as its key,
+The STL map of C++ supports pair<int,int> as its key,
 So the solution can be:
 */
 class Solution {

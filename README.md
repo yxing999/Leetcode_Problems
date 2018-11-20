@@ -5,6 +5,4 @@
 
 
 
-### Array:  
-835.Image Overlap.(M)  
 
