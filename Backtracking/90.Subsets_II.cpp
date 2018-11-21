@@ -66,3 +66,38 @@ public:
         }
     }
 };
+
+/*
+Iterative solution:
+Sort the numsfirst,then scan the nums, for the nums[i],
+if nums[i] is not the same as the last one, copy the current res, and append nums[i] to each of them,
+then append new subset to the back of res.
+if nums[i] is the same as nums[i-1], only append nums[i] to the subsets that we added in the last step,
+which is in nums[i-1], to avoid the duplicates.
+
+Time complexity analysis is interesting,
+if we only care about the for loop, it is O(2^n), it is not the real time apparently.
+shoud we consider the details within the for loop? I don't know.
+*/
+
+class Solution {
+public:
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        vector<vector<int>> res={{}};
+        sort(nums.begin(),nums.end());
+        int cur_size=1,start=0;
+        for(int i=0;i<nums.size();i++){
+            start=i>0&&nums[i]==nums[i-1]? cur_size:0;
+            cur_size=res.size();
+            for(int j=start;j<cur_size;j++){
+                vector<int> temp=res[j];
+                temp.push_back(nums[i]);
+                res.push_back(temp);
+            }
+        }
+        return res;
+    }
+};
+
+
+
