@@ -9,3 +9,9 @@
 
 ### Bit Manipulation:
 137.Single Number II.(M)
+
+### Design:
+146.LRU Cache.(H-)
+
+### Dynamic Programming:
+10.Regular Expression Matching.(H)
