@@ -6,3 +6,6 @@
 ### Backtracking:  
 90.Subsets II(including time analysis).(M-)  
 784.Letter Case Permutation.(M-)
+
+### Bit Manipulation:
+137.Single Number II.(M)
