@@ -5,6 +5,7 @@
 
 ### Backtracking:  
 90.Subsets II(including time analysis).(M-)  
+140.Word Break II.(H)  
 784.Letter Case Permutation.(M-)
 
 ### Bit Manipulation:
@@ -15,3 +16,4 @@
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)
+140.Word Break II.(H)
