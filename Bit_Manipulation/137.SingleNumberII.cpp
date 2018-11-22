@@ -45,7 +45,7 @@ In the end, a is the result.
 a=a^nums[i]&~b;
 b=b^nums[i]&~b;
 if you ask me how did you get this method, I got it from the website.
-But I don't think it is difficult, when you are done enough exercise, gods will tell you.
+But I don't think it is difficult, when you are done enough exercise, God will tell you.
 */
 class Solution {
 public:
