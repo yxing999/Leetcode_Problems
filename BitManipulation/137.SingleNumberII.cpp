@@ -1,7 +1,7 @@
 /*
 This is a follow up question of 136 Single Number,
 Every number appears 3 times,
-In addition, there are restrictions: liner runtime complexity, const extra space.
+In addition, there are restrictions: linear runtime complexity, const extra space.
 So I solve it on bit level.
 there are several strategies, but they are all similar.
 */
