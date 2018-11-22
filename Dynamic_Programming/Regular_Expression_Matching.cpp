@@ -8,16 +8,9 @@ for dp[i][j], we need to handle according to p[j-1]:
 1.p[j-1]=='*'. 
 	What can this '*' do?
 	(1).It can remove itself together with preceding character.(dp[i][j-2])
-	(2).It can remove itself only.(dp[i][j-2])
-	(3).It can duplicate preceding character.(i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]))
-	***
-	Although we can derive dp[i][j-1]=true from i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]),
-	which means this line can be modified to 
-	dp[i][j]=dp[i][j-2]||i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]);
-	I still leave dp[i][j-1] there. It makes logicality complete, and easy to understand.
-	***
+	(2).It can duplicate preceding character one ore more times.(i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]))
 2.p[j-1]!='*'.
-	Just get dp[i][j] from dp[i-1][j-1].
+	Just get dp[i][j] from dp[i-1][j-1].(dp[i][j]=i>0&&dp[i-1][j-1]&&match(s[i-1],p[j-1]))
 
 Time: O(m*n),
 Space O(m*n).
@@ -33,7 +26,7 @@ public:
         for(int i=0;i<=m;i++){
             for(int j=1;j<=n;j++){
                 if(p[j-1]=='*'){//p[0] won't be '*', so we don't need judgement (j>1).
-                    dp[i][j]=dp[i][j-2]||dp[i][j-1]||i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]);
+                    dp[i][j]=dp[i][j-2]||i>0&&dp[i-1][j]&&match(s[i-1],p[j-2]);
                 }
                 else{
                     dp[i][j]=i>0&&dp[i-1][j-1]&&match(s[i-1],p[j-1]);
