@@ -17,3 +17,6 @@
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
 140.Word Break II.(H)
+
+### String
+214.Shortest Palindrome.(H)
