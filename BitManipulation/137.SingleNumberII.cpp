@@ -36,7 +36,7 @@ public:
 another approach is set 2 bits a, b to record, a=b=0 at start.
 Loop on array, what we want is:
 
-for the integet x we meet,
+for the integer x we meet,
 first time: a=x,b=0;
 second time: a=x,b=x;
 third time: a=0,b=0;
