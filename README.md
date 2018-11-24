@@ -18,6 +18,7 @@
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
+123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)
 
 ### String
