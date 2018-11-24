@@ -22,3 +22,11 @@
 
 ### String
 214.Shortest Palindrome.(H)
+
+### Topological Sort
+269.Alien Dictionary.(H)  
+
+### Two Pointers
+76.Minimum Window Substring.(H)  
+
+
