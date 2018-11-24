@@ -8,8 +8,8 @@ But more than ordinary topological sort, Here are some more things to be conside
 1.The input may give us duplicate relationships, we should only count it once.
   For example: ["za","zb","ca","cb"] will give us two 'a->b'.
   but we should build the graph a->b, not a->b
-          \
-           b
+                                           \
+                                            b
 2.What is definition of "valid"?
   After testing, "valid" means all characters appeared in the input should get the order in the result.
   So if a character has no relationship with others, we put it anywhere in the result.
