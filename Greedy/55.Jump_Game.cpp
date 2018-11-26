@@ -4,7 +4,7 @@ The only obstacle preventing us from reaching end is 0.
 if we can skip 0, return true; if we can't, return false.
 In what situation we can't? [4,3,2,1,0,4].
 
-Time: O(n), two for loop, but still O(n).
+Time: O(n), two for loops, but still O(n).
 Space: O(1).
 */
 
@@ -26,7 +26,7 @@ public:
 
 /*
 Look at this problem from higher perspective.
-It is problem about greedy.
+It is a problem about greedy.
 
 Time: O(n);
 Space: o(1).
