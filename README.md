@@ -13,7 +13,7 @@
 260.Single Number III.(M)  
 
 ### Design:
-146.LRU Cache.(H-) 
+146.LRU Cache.(H-)   
 295.Find Median from Data Stream.(H-)   
 460.LFU Cache.(H+)
 
