@@ -39,8 +39,13 @@
 947.Most Stone Removed with Same Row or Column.(M+)  
 
 ### Greedy
+55.Jump Game.(M-)  
 123.Best Time to Buy and Sell Stock III.(H)  
-714.Best Time to Buy and Sell Stock with Transaction Fee.(M)  
+714.Best Time to Buy and Sell Stock with Transaction Fee.(M)
+
+### Hash
+694.Number of Distinct Islands.(M+)  
+   
 
 
 
