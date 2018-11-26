@@ -13,13 +13,14 @@
 260.Single Number III.(M)  
 
 ### Design:
-146.LRU Cache.(H-)  
+146.LRU Cache.(H-) 
+295.Find Median from Data Stream.(H-)   
 460.LFU Cache.(H+)
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
 123.Best Time to Buy and Sell Stock III.(H)  
-140.Word Break II.(H)
+140.Word Break II.(H)  
 
 ### String
 214.Shortest Palindrome.(H)
@@ -32,9 +33,14 @@
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
+295.Find Median from Data Stream.(H-)  
 
 ### Union Find
 947.Most Stone Removed with Same Row or Column.(M+)  
+
+### Greedy
+123.Best Time to Buy and Sell Stock III.(H)  
+714.Best Time to Buy and Sell Stock with Transaction Fee.(M)  
 
 
 

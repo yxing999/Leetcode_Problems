@@ -11,8 +11,7 @@ The time complexity consists of two parts:
 2.Connect operations in every step. O(logn)
 Time: O(logn*n^2).
 ***
-Due to the limit on mathematics, I am not sure about this yet, correctness or rigor.
-I will think about this carefully when I have time.
+Due to my limit on mathematics, I am not sure about this yet, correctness or rigor.
 ***
 
 Space: O(n).
@@ -43,5 +42,37 @@ public:
             union_array[rooti]=rootj;
             count--;
         }
+    }
+};
+
+/*
+Solution with less time complexity:
+Connecting every stone wastes time, we can connect x and y of every stone.
+So the time Complexity of for loop becomes O(n),
+One thing to handle: 
+we cannot tell if a number is x or y, a easy trick is add 10000 to y,
+since the range of x and y is [0,10000), so the new range of y is [10000,20000).
+
+Time: O(n*longn);
+Space: O(20000).
+*/
+
+class Solution {
+public:
+    int removeStones(vector<vector<int>>& stones) {
+        int n=stones.size();
+        vector<int> parent(20000);
+        for(int i=0;i<20000;i++) parent[i]=i;
+        for(auto stone:stones) connect(parent,stone[0],stone[1]+10000);
+        unordered_set<int> count;
+        for(auto stone:stones) count.insert(find(parent,stone[0]));
+        return n-count.size();
+    }
+    int find(vector<int> &parent, int x){
+        if(parent[x]==x) return x;
+        else return find(parent,parent[x]);
+    }
+    void connect(vector<int> &parent,int x,int y){
+        parent[find(parent,x)]=find(parent,y);
     }
 };
