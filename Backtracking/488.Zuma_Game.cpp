@@ -17,18 +17,16 @@ public:
         int res=backtracking(board,ch_hand);
         return res==INT_MAX?-1:res;
     }
-    void clean(string &board){
+    string clean(string board){
         for(int i=0,j=0;i<=board.size();i++){
             if(i<board.size()&&board[i]==board[j]) continue;
-            if(i-j>=3){
-                board=board.substr(0,j)+board.substr(i);
-                i=j;
-            }
+            if(i-j>=3) return clean(board.substr(0,j)+board.substr(i));
             else j=i;
         }
+        return board;
     }
     int backtracking(string board,unordered_map<char,int> &ch_hand){
-        clean(board);
+        board=clean(board);
         if(board.empty()) return 0;
         int res=INT_MAX;
         for(int i=0,j=0;i<=board.size();i++){
