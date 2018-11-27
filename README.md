@@ -34,18 +34,27 @@
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
+239.Sliding Window Maximum.(H-)    
 295.Find Median from Data Stream.(H-)  
 
 ### Union Find
 947.Most Stone Removed with Same Row or Column.(M+)  
 
 ### Greedy
+45.Jump Game II.(H)  
 55.Jump Game.(M-)  
 123.Best Time to Buy and Sell Stock III.(H)  
 714.Best Time to Buy and Sell Stock with Transaction Fee.(M)
 
 ### Hash
 694.Number of Distinct Islands.(M+)  
+
+### DFS
+488.Zuma Game.(H)  
+
+### BFS
+45.Jump Game II.(H)  
+
    
 
 

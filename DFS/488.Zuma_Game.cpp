@@ -1,0 +1,4 @@
+/*
+Great problem based on a famous game.
+It is kind of tricky to work it out by DFS.
+*/
