@@ -29,9 +29,9 @@ public:
 Follow up: Could you solve it in linear time?
 Yes, I can, but only after referring to Dalao's solution.
 
-We build a priority_queue by ourselves, which store the index of numbers within the window,
+We build a priority_queue by ourselves, which stores the index of numbers within the window,
 keep the biggest at front, pop this only when it equals to i-k, which means it is out of window.
-when push new index i, pop_back all indices that nums[back]<nums[i], because they are useless when we have nums[i].
+when pushing new index i, pop_back all indices that nums[back]<nums[i], because they are useless when we have nums[i].
 It is a monotonic queue.
 
 Time: O(n).
