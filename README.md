@@ -6,6 +6,7 @@
 ### Backtracking:  
 90.Subsets II(including time analysis).(M-)  
 140.Word Break II.(H)  
+488.Zuma Game.(H)  
 784.Letter Case Permutation.(M-)
 
 ### Bit Manipulation:
@@ -49,11 +50,7 @@
 ### Hash
 694.Number of Distinct Islands.(M+)  
 
-### DFS
-488.Zuma Game.(H)  
-
-### BFS
-45.Jump Game II.(H)  
+  
 
    
 
