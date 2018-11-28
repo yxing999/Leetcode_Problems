@@ -9,7 +9,7 @@ Time Complexity:
 The time complexity consists of two parts:
 1.Two for loops. O(n^2)
 2.Connect operations in every step. O(logn)
-Time: O(logn*n^2).
+Time: O(n^2*logn).
 ***
 Due to my limit on mathematics, I am not sure about this yet, correctness or rigor.
 ***
