@@ -3,7 +3,7 @@ Remove minimum parentheses to valid string, the core strategy is DFS.
 
 Before core process, another task is counting how many left and right parentheses to be removed.
 Up to i index, if the right parentheses ')' is more than left, it should be removed, and won't be count.
-Number of left parentheses to be removed is the number of it more than the right int the end.
+Number of left parentheses to be removed is the number of it more than the right in the end.
 
 DFS:kind of brute force, remove every possible '(' and ')', then test the validity of new string.
 Make sure to skip duplicates.
