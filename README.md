@@ -56,6 +56,9 @@
 ### BFS
 752.Open the Lock.(M)  
 
+### Others
+42.Trapping Rain Water.(H-)
+
 
   
 
