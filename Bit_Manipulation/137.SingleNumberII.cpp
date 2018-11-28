@@ -7,7 +7,7 @@ there are several strategies, but they are all similar.
 */
 
 /*
-Int number consists of 32 bits, we loop on the arrat, count total number of 1 on every bit,
+Int number consists of 32 bits, we loop on the array, count total number of 1 on every bit,
 for the number that appears three time, they contribute 3*k 1 to this bit.
 for the number that appears just once, it contributes one 1 to this bit.
 make the total number of every bit modulo 3,
