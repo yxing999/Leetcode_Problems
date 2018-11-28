@@ -53,6 +53,9 @@
 ### DFS
 301.Remove Invalid Parentheses.(H)  
 
+### BFS
+752.Open the Lock.(M)  
+
 
   
 
