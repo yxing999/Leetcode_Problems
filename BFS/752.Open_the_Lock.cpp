@@ -1,6 +1,6 @@
 /*
 General BFS problem.
-For every status starting from "0000", there are 8 kinds following status.
+For every status starting from "0000", there are 8 kinds of following status.
 Choose those are not in deadends or visited, push them into queue.
 
 This problem has a lot of room for improvement in runtime.
