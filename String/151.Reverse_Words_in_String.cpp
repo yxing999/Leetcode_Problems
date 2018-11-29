@@ -1,6 +1,7 @@
 /*
 Using istringstream or stack makes this problem every easy.
 But the purpose of this problem is to solve it in place.
+Just a practice for handling string.
 
 Time: O(n);
 Space: O(1);

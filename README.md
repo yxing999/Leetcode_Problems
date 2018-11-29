@@ -32,6 +32,7 @@
 269.Alien Dictionary.(H)  
 
 ### Two Pointers
+15.3Sum.(M)  
 76.Minimum Window Substring.(H)  
 
 ### Priority Queue
@@ -55,6 +56,7 @@
 301.Remove Invalid Parentheses.(H)  
 
 ### BFS
+127.Word Ladder.(M)  
 752.Open the Lock.(M)  
 
 ### Others
