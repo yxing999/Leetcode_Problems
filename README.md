@@ -50,6 +50,7 @@
 714.Best Time to Buy and Sell Stock with Transaction Fee.(M)
 
 ### Hash
+138.Copy List with Random Pointer.(M)  
 694.Number of Distinct Islands.(M+)  
 
 ### DFS
@@ -58,6 +59,12 @@
 ### BFS
 127.Word Ladder.(M)  
 752.Open the Lock.(M)  
+
+### Tree
+98.Validate Binary Search Tree.(M-) 
+
+### Linked List
+138.Copy List with Random Pointer.(M+)   
 
 ### Others
 42.Trapping Rain Water.(H-)
