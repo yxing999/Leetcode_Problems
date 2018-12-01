@@ -3,7 +3,7 @@ We need two pass to find this two result numbers, we assume they are num1,num2.
 First pass: Set a b=0, make b xor every num of nums, finally, b=num1^num2.
             then we executed b=b&-b, this is a fixed way to keep only the right most 1 of b.
             ***
-            In the computer, negative integer is represented by inverse code.
+            In the computer, negative integer is represented by complement code.
             ***
             since num1 and num2 are different, that 1 must exist.
 Second pass:Since b=num1^num2. for the bit that equals 1.
