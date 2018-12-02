@@ -1,7 +1,7 @@
 /*
 Implement three DP array:
 hold: hold[i] means hold stock at ith day, so we can sell on the next day.
-ilde: ilde[i] means doing nothing at ith day, so we can buy on the next day.
+idle: idle[i] means doing nothing at ith day, so we can buy on the next day.
 sell: sell[i] means sell at ith day, we must hold on (i-1)th day.
 
 Time: O(n);
