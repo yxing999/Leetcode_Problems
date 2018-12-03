@@ -4,7 +4,7 @@ Follow the consistent strategy for string, We built a 2D array dp.
 dp[i][j] mean the minimum steps from word1 left i part to word2 left j part.
 i and j are all length.
 facing word1[i-1] and word2[j-1],
-if they are equal, dp[i][j]=dp[i-1][j-1], we don't need to handle this two equal characters.
+if they are equal, dp[i][j]=dp[i-1][j-1], we don't need to handle these two same characters.
 if they are different, dp[i][j] can come from three directions:
 dp[i-1][j-1]+1,dp[i-1][j]+1,dp[i][j-1]+1,
 they all have corresponding operation:
