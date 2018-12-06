@@ -16,17 +16,21 @@
 ### Design:
 146.LRU Cache.(H-)   
 295.Find Median from Data Stream.(H-)   
+355.Design Twitter.(M+)  
 460.LFU Cache.(H+)
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
 72.Edit Distance.(H)  
+97.Interleaving String.(H)  
 123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)  
 188.Best Time to Buy and Sell Stock IV.(H)  
-309.Best Time to Buy and Sell Stock with Cooldown.(M)
+309.Best Time to Buy and Sell Stock with Cooldown.(M)  
+322.Coin Change.(M)  
 
 ### String
+71.Simplify Path.(M)  
 151.Reverse Words in String.(M)  
 214.Shortest Palindrome.(H)
 
@@ -56,9 +60,11 @@
 694.Number of Distinct Islands.(M+)  
 
 ### DFS
+97.Interleaving String.(H)  
 301.Remove Invalid Parentheses.(H)  
 
 ### BFS
+97.Interleaving String.(H)  
 127.Word Ladder.(M)  
 752.Open the Lock.(M)  
 
@@ -69,6 +75,7 @@
 138.Copy List with Random Pointer.(M+)   
 
 ### Others
+12.Integer to Roman.(M)  
 42.Trapping Rain Water.(H-)
 
 
