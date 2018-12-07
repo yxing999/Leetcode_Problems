@@ -1,6 +1,7 @@
 # Problem List:  
   
 ### Matrix:  
+723.Candy Crush.(M+)  
 835.Image Overlap.(M)
 
 ### Backtracking:  
@@ -72,7 +73,11 @@
 98.Validate Binary Search Tree.(M-) 
 
 ### Linked List
-138.Copy List with Random Pointer.(M+)   
+138.Copy List with Random Pointer.(M+)  
+
+### Sort
+253.Meeting Room II.(M)  
+435.Non-overlapping Invervals.(M)  
 
 ### Others
 12.Integer to Roman.(M)  
