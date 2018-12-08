@@ -41,6 +41,7 @@
 ### Two Pointers
 15.3Sum.(M)  
 76.Minimum Window Substring.(H)  
+487.Max Consecutive Ones II.(M)  
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
@@ -78,6 +79,9 @@
 ### Sort
 253.Meeting Room II.(M)  
 435.Non-overlapping Invervals.(M)  
+
+### Binary Search
+540.Single Element in a Sorted Array.(M)  
 
 ### Others
 12.Integer to Roman.(M)  

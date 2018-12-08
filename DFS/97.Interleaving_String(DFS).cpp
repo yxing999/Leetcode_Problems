@@ -4,7 +4,7 @@ For every (i,j) that cannot make i3 up to s3.size(), we memorize it,
 next we meet this (i,j), just return false.
 Once the i3 reach s3.size(), res=true.
 
-Time: O(2^n3),
+Time: O(n1*n2),
 Space :O(n1*n2).
 *** I am not sure about this, my mathematical ablility can't analyze this so far.
 */
