@@ -3,7 +3,7 @@
 For the judgement on which side of the target:
 We compare nums[mid] and nums[mid+1]( mid+1 won't overflow,because right is always bigger than left),
 result depends on the parity of mid.
-Let's review some example first:
+Let's review some examples first:
 [1,1,2,2,(3),3,4,5,5] mid=4,target on the right, nums[mid]=nums[mid+1];
 [1,2,2,3,(3),4,4,5,5] mid=4,target on the left, nums[mid]!=nums[mid+1];
 [1,1,2,(2),3,3,4], mid=3,target on the right,nums[mid]!=nums[mid+1];
