@@ -1,4 +1,4 @@
-# Problem List:  
+ # Problem List:  
   
 ### Matrix:  
 723.Candy Crush.(M+)  
@@ -55,7 +55,8 @@
 45.Jump Game II.(H)  
 55.Jump Game.(M-)  
 123.Best Time to Buy and Sell Stock III.(H)  
-714.Best Time to Buy and Sell Stock with Transaction Fee.(M)
+714.Best Time to Buy and Sell Stock with Transaction Fee.(M)  
+948.Bag of Tokens.(M)  
 
 ### Hash
 138.Copy List with Random Pointer.(M)  
