@@ -48,6 +48,7 @@
 
 ### Hash
 138.Copy List with Random Pointer.(M)  
+560.Subarray Sum Equals K.(M)  
 694.Number of Distinct Islands.(M+)  
 
 ### Linked List
