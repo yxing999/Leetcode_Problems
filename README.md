@@ -44,6 +44,7 @@
 123.Best Time to Buy and Sell Stock III.(H)  
 714.Best Time to Buy and Sell Stock with Transaction Fee.(M)  
 948.Bag of Tokens.(M)  
+955.Delete Columns to Make Sorted II.(M)  
 
 ### Hash
 138.Copy List with Random Pointer.(M)  
