@@ -27,6 +27,7 @@
 295.Find Median from Data Stream.(H-)   
 355.Design Twitter.(M+)  
 460.LFU Cache.(H+)  
+622.Design Circular Queue.(M) (not yet)   
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
@@ -61,11 +62,15 @@
 ### Others
 12.Integer to Roman.(M)  
 42.Trapping Rain Water.(H-)  
+754.Reach a Number.(M)   
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
 239.Sliding Window Maximum.(H-)    
 295.Find Median from Data Stream.(H-)  
+
+### Recursion
+87.Scramble String.(H-)  
 
 ### Sort
 253.Meeting Room II.(M)  
@@ -88,11 +93,12 @@
 ### Two Pointers
 15.3Sum.(M)  
 76.Minimum Window Substring.(H)  
+228.Summary ranges.(M-)  
 487.Max Consecutive Ones II.(M)  
 
 ### Union Find
 947.Most Stone Removed with Same Row or Column.(M+)  
-
+952.Largest Component Size by Common Factor.(H)  
   
 
    
