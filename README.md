@@ -62,7 +62,8 @@
 ### Others
 12.Integer to Roman.(M)  
 42.Trapping Rain Water.(H-)  
-754.Reach a Number.(M)   
+754.Reach a Number.(M)  
+957.Prison Cells After N Days.(M)   
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
