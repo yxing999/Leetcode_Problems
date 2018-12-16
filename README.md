@@ -55,7 +55,8 @@
 ### Linked List
 138.Copy List with Random Pointer.(M+)  
 
-### Matrix:  
+### Matrix:
+73.Set Matrix Zeros.(M)   
 723.Candy Crush.(M+)  
 835.Image Overlap.(M)  
 
@@ -99,7 +100,7 @@
 
 ### Union Find
 947.Most Stone Removed with Same Row or Column.(M+)  
-952.Largest Component Size by Common Factor.(H)  
+952.Largest Component Size by Common Factor.(H+)  
   
 
    
