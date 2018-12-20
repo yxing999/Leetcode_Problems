@@ -1,5 +1,5 @@
 /*
-Divide the string to two parts  length of i and n-i.
+Divide the string into two parts: length of i and n-i.
 These two parts can be reversed or not.
 Do judgement recursively, layer by layer.
 Only strings contains the same character set can be scramble, judge this by a hashmap before for loop,
