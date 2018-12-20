@@ -46,6 +46,11 @@ public:
 Further time Complexity improvement:
 Build a deque to store index of the sum, keep the sum[i] in the deque is in ascending order.
 
+why can we pop the front after num[i]-front>=K?
+We scan the sum from the left to the right, when we get a num[i],
+which satisfies num[i]-front>=K, it must the first one meeting this condition,
+So, it is the shorter comparing to latter ones.
+
 why ascending order?
 We want the shorest subarray, whose sum is at least K,
 Assume there are a<b, but nums[a]>sum[b], when we at i, 
