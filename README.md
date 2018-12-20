@@ -51,6 +51,7 @@
 138.Copy List with Random Pointer.(M)  
 560.Subarray Sum Equals K.(M)  
 694.Number of Distinct Islands.(M+)  
+862.Shortest Subarray with Sum at Least K.(H)  
 
 ### Linked List
 138.Copy List with Random Pointer.(M+)  
