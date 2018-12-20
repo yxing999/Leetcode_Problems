@@ -1,5 +1,5 @@
 /*
-Problem about subarray, we usually build a container to memory sum of left i number.
+Problem about subarray, we usually build a container to memory sum of left i numbers.
 num[i]-num[j] is the sum of subarray from length j+1 to i.
 For this problem, O(n^2) is bad solution.
 To improve time complexity, Let's carefully think about our task:
