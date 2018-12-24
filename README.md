@@ -9,6 +9,7 @@
 90.Subsets II(including time analysis).(M-)  
 140.Word Break II.(H)  
 488.Zuma Game.(H)  
+638.Shopping Offer.(M)  
 784.Letter Case Permutation.(M-)  
 
 ### Binary Search
