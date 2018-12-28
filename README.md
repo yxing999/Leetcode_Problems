@@ -1,8 +1,9 @@
- # Problem List(67):  
+# Problem List:  
  
 ### BFS
 97.Interleaving String.(H)  
 127.Word Ladder.(M)  
+433.Minimum Genetic Mutation.(M)  
 752.Open the Lock.(M)  
  
 ### Backtracking:  
