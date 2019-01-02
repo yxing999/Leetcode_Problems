@@ -6,12 +6,12 @@ We notice that:
 The length of array is large but the range of age is small, 
 so we use a hash map to record number of every age,loop on the age range
 then get the result by some mathematical calculation.
-this strategy reduce the time complexitu to O(n).
+this strategy reduce the time complexity to O(n).
 
-Some interpretation about friend making conditions:
+Some interpretations about makeing friend conditions:
 1.age[B] > 100 && age[A] < 100 is redundant, because it is a sufficient conditions of age[B] > age[A].
 2.we loop on j>=i so ages[A]>=ages[B] is guaranteed, we don't have to test it every time.
-3.we loop on j in ascending order, once j/2+7>=i, the following j also meet j/2+7>=i, so we break thsi loop.
+3.we loop on j in ascending order, once j/2+7>=i, the following j also meet j/2+7>=i, so we break this loop.
 
 Time: O(n),
 Space: O(n).
