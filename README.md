@@ -48,12 +48,14 @@
 45.Jump Game II.(H)  
 55.Jump Game.(M-)  
 123.Best Time to Buy and Sell Stock III.(H)  
+316.Remove Duplicate Letters.(H-)  
 714.Best Time to Buy and Sell Stock with Transaction Fee.(M)  
 948.Bag of Tokens.(M)  
 955.Delete Columns to Make Sorted II.(M)  
 
 ### Hash
 138.Copy List with Random Pointer.(M)  
+525.Contiguous Array.(M)  
 560.Subarray Sum Equals K.(M)  
 694.Number of Distinct Islands.(M+)  
 825.Friends Of Appropriate Ages.(M)  
