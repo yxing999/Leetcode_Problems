@@ -97,7 +97,8 @@
 ### String
 71.Simplify Path.(M)  
 151.Reverse Words in String.(M)  
-214.Shortest Palindrome.(H)
+214.Shortest Palindrome.(H)  
+936.Stamping The Sequence.(H)  
 
 ### Topological Sort
 269.Alien Dictionary.(H)  
