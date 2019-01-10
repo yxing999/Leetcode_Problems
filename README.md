@@ -30,7 +30,7 @@
 295.Find Median from Data Stream.(H-)   
 355.Design Twitter.(M+)  
 460.LFU Cache.(H+)  
-622.Design Circular Queue.(M) (not yet)   
+622.Design Circular Queue.(M)     
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
