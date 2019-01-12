@@ -21,27 +21,24 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         int m=t.size();
-        if(m==0) return "";
-        unordered_map<char,int> char_t;
-        for(char ch:t) char_t[ch]++;
+        string res="";
+        unordered_map<char,int> hash;
+        for(auto ch:t) hash[ch]++;
         int len=INT_MAX;
-        int start=0,left=0;
-        for(int right=0;right<s.size();right++){
-            if(char_t[s[right]]-- >0) m--;
-            if(m==0){
-                while(char_t[s[left]]<0){
-                    char_t[s[left]]++;
-                    left++;
+        int start=0;
+        for(int i=0;i<s.size();i++){
+            if(hash[s[i]]-->0) m--;
+            while(m==0){
+                if(++hash[s[start]]>0){
+                    if(i-start<len){
+                        len=i-start;
+                        res=s.substr(start,i+1-start);
+                    }
+                    m++;
                 }
-                if(right-left+1<len){
-                    len=right-left+1;
-                    start=left;
-                }
-                char_t[s[left]]++;
-                left++;
-                m++;
+                start++;
             }
         }
-        return len==INT_MAX? "":s.substr(start,len);
+        return res;
     }
 };
