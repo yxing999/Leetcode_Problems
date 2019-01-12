@@ -27,7 +27,7 @@ public:
         int len=INT_MAX;
         int start=0;
         for(int i=0;i<s.size();i++){
-            if(hash[s[i]]-->0) m--;
+            if(hash[s[i]]-- >0) m--;
             while(m==0){
                 if(++hash[s[start]]>0){
                     if(i-start<len){
