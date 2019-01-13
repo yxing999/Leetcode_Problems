@@ -61,6 +61,7 @@
 694.Number of Distinct Islands.(M+)  
 825.Friends Of Appropriate Ages.(M)  
 862.Shortest Subarray with Sum at Least K.(H)  
+974.Subarray Sums Divisible by K.(M)  
 
 ### Linked List
 138.Copy List with Random Pointer.(M+)  
