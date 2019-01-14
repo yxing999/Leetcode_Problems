@@ -116,6 +116,7 @@
 487.Max Consecutive Ones II.(M)  
 
 ### Union Find
+547.Friend Circles.(M)  
 947.Most Stone Removed with Same Row or Column.(M+)  
 952.Largest Component Size by Common Factor.(H+)  
 959.Regions Cut By Slashes.(M+)  
