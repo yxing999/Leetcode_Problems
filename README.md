@@ -107,6 +107,7 @@
 
 ### Tree
 98.Validate Binary Search Tree.(M-)  
+105.Construct Binary Tree from Preorder and Inorder Traversal.(M)  
 
 ### Two Pointers
 15.3Sum.(M)  
