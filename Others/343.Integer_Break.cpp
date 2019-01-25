@@ -23,4 +23,5 @@ public:
 /*
 We can also calculate the number of 3 and the tail.
 The time can be O(1).
+But it is not necessary, code would become unclear.
 */
