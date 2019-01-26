@@ -39,6 +39,7 @@
 123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)  
 188.Best Time to Buy and Sell Stock IV.(H)  
+279.Perfect Squares.(M-)  
 309.Best Time to Buy and Sell Stock with Cooldown.(M)  
 322.Coin Change.(M)  
 712.Minimum ASCII Delete Sum for Two Strings.(M)  
