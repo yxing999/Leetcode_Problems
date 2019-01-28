@@ -28,6 +28,7 @@
 ### Design:
 146.LRU Cache.(H-)   
 295.Find Median from Data Stream.(H-)   
+307.Range Sum Query - Mutable.(M+)  
 355.Design Twitter.(M+)  
 460.LFU Cache.(H+)  
 622.Design Circular Queue.(M)     
