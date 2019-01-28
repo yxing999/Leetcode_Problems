@@ -78,6 +78,7 @@
 42.Trapping Rain Water.(H-)  
 238.Product of Array Except Self.(M)  
 343.Integer Break.(M)  
+370.Range Addition.(M+)  
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
 829.Consecutive Numbers Sum.(H-)  
