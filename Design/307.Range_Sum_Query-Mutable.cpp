@@ -19,7 +19,7 @@ C8=A1+A2+A3+A4+A5+A6+A7+A8,
 
 How to determine what C[i] contains?
 It is determined by lowest digit 1 of index's binary form.
-Index   Binary   Lowest 1
+Index       Binary      Lowest 1
 1		0001		1
 2		0010		2
 3		0011		1
