@@ -1,6 +1,6 @@
 /*
 The input array contains only 0 and 1.
-we Create a hash map to memorize the sum from index 0 to i.
+we create a hash map to memorize the sum from index 0 to i.
 Here is a trick, we take 0 as -1 when we do the sum,
 so when the number of 0 and 1 is equal, the sum is 0.
 
