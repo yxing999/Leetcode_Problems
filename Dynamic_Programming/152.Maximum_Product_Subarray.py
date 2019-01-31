@@ -1,6 +1,6 @@
 '''
 Basic DP problem.
-Create four integet, remember current max, current min, previous max and previous min.
+Create four integers, remember current max, current min, previous max and previous min.
 At index i, we need to get the max subarray ending at i, min subarray ending at i.
 So, we calculate 3 numbers: nums[i],nums[i]*premax,nums[i]*premin
 choose the maximum as curmax, choose the minimum as curmin.
