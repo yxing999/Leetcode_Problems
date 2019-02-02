@@ -80,6 +80,7 @@
 238.Product of Array Except Self.(M)  
 343.Integer Break.(M)  
 370.Range Addition.(M+)  
+397.Integer Replacement.(M)  
 478.Generate Random Point in a Circle.(M)  
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
@@ -93,6 +94,7 @@
 
 ### Recursion
 87.Scramble String.(H-)  
+397.Integer Replacement.(M-)  
 808.Soup Servings.(M)  
 
 ### Sort
