@@ -28,7 +28,6 @@
 ### Design:
 146.LRU Cache.(H-)   
 295.Find Median from Data Stream.(H-)   
-307.Range Sum Query - Mutable.(M+)  
 355.Design Twitter.(M+)  
 460.LFU Cache.(H+)  
 622.Design Circular Queue.(M)     
@@ -117,6 +116,7 @@
 ### Tree
 98.Validate Binary Search Tree.(M-)  
 105.Construct Binary Tree from Preorder and Inorder Traversal.(M)  
+307.Range Sum Query - Mutable.(M+)  
 
 ### Two Pointers
 15.3Sum.(M)  
