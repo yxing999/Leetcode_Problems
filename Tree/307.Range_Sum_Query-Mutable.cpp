@@ -1,6 +1,5 @@
 /*
 This problem can be solved by Binary Indexed Tree or Segment Tree.
-This time I choose the front one, I will implement Segment Tree next time.
 
 Binary Indexed Tree:
 For an existing array A, we create a new array C with the same length,
@@ -77,6 +76,15 @@ public:
     vector<int> data;
     vector<int> tree;
 };
+
+/*
+Segment Tree implementation:
+
+Time: update:O(logn), getsum:O(logn),
+Space: O(n).
+*/
+
+
 
 /**
  * Your NumArray object will be instantiated and called as such:
