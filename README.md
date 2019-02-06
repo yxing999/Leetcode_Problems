@@ -67,7 +67,9 @@
 
 ### Interval
 218.The Skyline Problem.(H)  
+253.Meeting Room II.(M)  
 370.Range_Addition.(M+)  
+435.Non-overlapping Invervals.(M)  
 
 ### Linked List
 138.Copy List with Random Pointer.(M+)  
@@ -100,8 +102,6 @@
 808.Soup Servings.(M)  
 
 ### Sort
-253.Meeting Room II.(M)  
-435.Non-overlapping Invervals.(M)  
 862.Most Porfit Assigning Work.(M)  
 
 ### Stack
