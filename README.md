@@ -102,6 +102,7 @@
 808.Soup Servings.(M)  
 
 ### Sort
+269.Alien Dictionary.(H)  
 862.Most Porfit Assigning Work.(M)  
 
 ### Stack
@@ -112,9 +113,6 @@
 151.Reverse Words in String.(M)  
 214.Shortest Palindrome.(H)  
 936.Stamping The Sequence.(H)  
-
-### Topological Sort
-269.Alien Dictionary.(H)  
 
 ### Tree
 98.Validate Binary Search Tree.(M-)  
