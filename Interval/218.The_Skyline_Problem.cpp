@@ -1,4 +1,5 @@
 /*
+This Approach is line sweep.
 To draw the outline of the city, we need to find the highest building on every x.
 First, we sort the start and end x-coordinate overall，
 At the start position, we store h, at the end position, we store -h,
