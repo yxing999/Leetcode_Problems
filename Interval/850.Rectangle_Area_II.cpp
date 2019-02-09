@@ -4,7 +4,7 @@ We still solve it by line sweep, it is a 2-D version.
 Imagin an infinite line vertical to x-axis, scan from left to right,
 when encounter the x contains points:
 1.Calculate width of several intervals.
-2.Add area between this x and last x.(width*(curx-lastx))
+2.Add area between this x and last x to result.(width*(curx-lastx))
 3.Handle points at this x: add new intervals to curpoint and remove end intervals.
 
 Time: O(n^2*log(n)),
