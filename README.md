@@ -97,6 +97,7 @@
 23.Merge K Sorted Lists.(M)  
 239.Sliding Window Maximum.(H-)    
 295.Find Median from Data Stream.(H-)  
+502.IPO.(H-)
 
 ### Recursion
 87.Scramble String.(H-)  
