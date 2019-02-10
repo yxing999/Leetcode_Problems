@@ -1,5 +1,5 @@
 /*
-Equal binary value must contains equal number of 1's.
+Equal binary values must contain equal numbers of 1's.
 So, firstly, we evenly split the 1's into three parts, 
 there are some 0's between these parts, that's where we can set i and j.
 [xxxx|yyyy|zzzz]
