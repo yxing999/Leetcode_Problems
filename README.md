@@ -127,6 +127,7 @@
 76.Minimum Window Substring.(H)  
 228.Summary ranges.(M-)  
 487.Max Consecutive Ones II.(M)  
+927.Three Equal Parts.(H)  
 
 ### Union Find
 547.Friend Circles.(M)  
