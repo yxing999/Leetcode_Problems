@@ -77,13 +77,6 @@ public:
     vector<int> tree;
 };
 
-/*
-Segment Tree implementation:
-
-Time: update:O(logn), getsum:O(logn),
-Space: O(n).
-*/
-
 
 
 /**

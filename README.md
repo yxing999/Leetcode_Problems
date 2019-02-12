@@ -14,6 +14,10 @@
 638.Shopping Offer.(M)  
 784.Letter Case Permutation.(M-)  
 
+### Binary Indexed Tree:
+307.Rnage Sum Query-Mutable.(M)  
+315.Count_of_Smaller_Numbers_After_Self.(H)  
+
 ### Binary Search
 540.Single Element in a Sorted Array.(M) 
 
