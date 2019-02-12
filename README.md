@@ -121,6 +121,7 @@
 98.Validate Binary Search Tree.(M-)  
 105.Construct Binary Tree from Preorder and Inorder Traversal.(M)  
 307.Range Sum Query - Mutable.(M+)  
+315.Count of Smaller Numbers After Self.(H)  
 
 ### Two Pointers
 15.3Sum.(M)  
