@@ -7,6 +7,7 @@
 752.Open the Lock.(M)  
  
 ### Backtracking:  
+22.Generate Parentheses.(M-)  
 90.Subsets II(including time analysis).(M-)  
 140.Word Break II.(H)  
 488.Zuma Game.(H)  
@@ -120,8 +121,6 @@
 ### Tree
 98.Validate Binary Search Tree.(M-)  
 105.Construct Binary Tree from Preorder and Inorder Traversal.(M)  
-307.Range Sum Query - Mutable.(M+)  
-315.Count of Smaller Numbers After Self.(H)  
 
 ### Two Pointers
 15.3Sum.(M)  
