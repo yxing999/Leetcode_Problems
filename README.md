@@ -28,7 +28,10 @@
 ### DFS
 97.Interleaving String.(H)  
 301.Remove Invalid Parentheses.(H)  
-959.Regions Cut By Slashes.(M+)  (not yet)
+959.Regions Cut By Slashes.(M+)  (not yet)  
+
+### Divide and Conquer
+493.Reverse Pairs.(H)  
 
 ### Design:
 146.LRU Cache.(H-)   
@@ -90,6 +93,7 @@
 ### Others
 12.Integer to Roman.(M)  
 42.Trapping Rain Water.(H-)  
+229.Majority Element II.(M+)  
 238.Product of Array Except Self.(M)  
 327.Count of Range Sum.(H)  
 343.Integer Break.(M)  
