@@ -14,6 +14,7 @@ class Solution:
             res += j - (mid + 1)
         nums[left: right + 1] = sorted(nums[left: right + 1])
         '''
+        # much slower
         L, R = nums[left: mid + 1], nums[mid + 1: right + 1]
         p, q = 0, 0
         for k in range(left, right + 1):
