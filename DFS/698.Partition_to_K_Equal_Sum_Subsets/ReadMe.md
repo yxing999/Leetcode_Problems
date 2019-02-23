@@ -1,6 +1,6 @@
 ### 698.Patition to K Equal Sum Subsets:
 This is a general version of LC 473.  
-This solution can serve as a template as all similar problem.  
+This solution can serve as a template for all similar problem.  
   
 Create an array `visited` to remember the elements we used.  
 Build the subsets one by one:  
