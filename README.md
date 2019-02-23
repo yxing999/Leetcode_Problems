@@ -57,6 +57,7 @@
 712.Minimum ASCII Delete Sum for Two Strings.(M)  
 741.Cherry Pickup.(H+)  
 956.Tallest BillBoard.(H)   
+983.Minimum Cost For Tickets.(M)  
 
 ### Greedy
 45.Jump Game II.(H)  
