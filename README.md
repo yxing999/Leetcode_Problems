@@ -30,6 +30,7 @@
 301.Remove Invalid Parentheses.(H)  
 464.Can I Win.(H)  
 473.Matchsticks to Square.(M+)  
+698.Partition to K Equal Sum Subsets.(M+)  
 959.Regions Cut By Slashes.(M+)  (not yet)  
 
 ### Divide and Conquer
