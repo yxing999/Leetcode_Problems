@@ -11,5 +11,5 @@ Buy:
 30-day pass after `thirty_ago`.  
 choose the minimum cost as the cost at day i.
 
-Time:O(nlogn),
+Time:O(nlogn),  
 Space:O(n).
