@@ -8,6 +8,7 @@ class Solution:
             return False
         target = total // k
         visited = [0] * n
+        nums.sort(reverse = True)
         
         def DFS(pos, cursum, k):
             if k == 1:
