@@ -6,9 +6,9 @@ At each day i, Look backward at days:
 `thirty_ago`: thirty days ago.  
   
 Buy:  
-1-day pass after one_ago,  
-7-day pass after seven_ago,  
-30-day pass after thirty_ago.  
+1-day pass after `one_ago`,  
+7-day pass after `seven_ago`,  
+30-day pass after `thirty_ago`.  
 choose the minimum cost as the cost at day i.
 
 Time:O(nlogn),
