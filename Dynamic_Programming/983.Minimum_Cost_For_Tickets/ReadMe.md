@@ -1,6 +1,6 @@
 ### 983.Minimum Cost for Tickets:
 Loop on input array,  
-At each day i, Look backward at days:
+At each day i, Look backward at days:  
 `one_ago`: one day ago,  
 `seven_ago`: seven days ago,  
 `thirty_ago`: thirty days ago.  
