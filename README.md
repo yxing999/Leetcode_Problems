@@ -93,6 +93,7 @@
 73.Set Matrix Zeros.(M)   
 723.Candy Crush.(M+)  
 835.Image Overlap.(M)  
+1001.Grid Illumination.(H-)  
 
 ### Others
 12.Integer to Roman.(M)  
