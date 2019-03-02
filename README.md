@@ -90,6 +90,7 @@
 138.Copy List with Random Pointer.(M+)  
 
 ### Matrix:
+51.N-Queens.(H-)
 73.Set Matrix Zeros.(M)   
 723.Candy Crush.(M+)  
 835.Image Overlap.(M)  
