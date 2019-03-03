@@ -13,6 +13,7 @@
 488.Zuma Game.(H)  
 638.Shopping Offer.(M)  
 784.Letter Case Permutation.(M-)  
+996.Number of Squareful Array.(H-)  
 
 ### Binary Indexed Tree:
 307.Rnage Sum Query-Mutable.(M)  
@@ -90,7 +91,7 @@
 138.Copy List with Random Pointer.(M+)  
 
 ### Matrix:
-51.N-Queens.(H-)
+51.N-Queens.(H-)  
 73.Set Matrix Zeros.(M)   
 723.Candy Crush.(M+)  
 835.Image Overlap.(M)  
