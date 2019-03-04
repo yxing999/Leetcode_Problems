@@ -130,6 +130,7 @@
 224.Basic Calculator.(H)  
 
 ### String
+43.Multiply String.(M-)  
 71.Simplify Path.(M)  
 151.Reverse Words in String.(M)  
 214.Shortest Palindrome.(H)  
