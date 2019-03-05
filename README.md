@@ -59,6 +59,7 @@
 368.Largest Divisible Subset.(M)  
 712.Minimum ASCII Delete Sum for Two Strings.(M)  
 741.Cherry Pickup.(H+)  
+920.Number of Music Playlists.(H)  
 956.Tallest BillBoard.(H)   
 983.Minimum Cost For Tickets.(M)  
 
