@@ -17,7 +17,7 @@
 
 ### Binary Indexed Tree:
 307.Rnage Sum Query-Mutable.(M)  
-315.Count_of_Smaller_Numbers_After_Self.(H)  
+315.Count of Smaller Numbers After Self.(H)  
 
 ### Binary Search
 540.Single Element in a Sorted Array.(M) 
@@ -29,6 +29,7 @@
 ### DFS
 97.Interleaving String.(H)  
 301.Remove Invalid Parentheses.(H)  
+417.Pacific Atlantic Water Flow.(M+)  
 464.Can I Win.(H)  
 473.Matchsticks to Square.(M+)  
 698.Partition to K Equal Sum Subsets.(M+)  
