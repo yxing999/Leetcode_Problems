@@ -36,5 +36,6 @@ public:
         }
         return mapping[node];
     }
+    
     unordered_map<Node*, Node*> mapping;
 };
