@@ -1,4 +1,4 @@
-//Solution 1
+//BFS
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
@@ -23,7 +23,7 @@ public:
     }
 };
 
-//Solution 2
+//DFS
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
@@ -36,6 +36,6 @@ public:
         }
         return mapping[node];
     }
-    
+
     unordered_map<Node*, Node*> mapping;
 };
