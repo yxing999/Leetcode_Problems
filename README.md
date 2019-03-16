@@ -33,6 +33,7 @@
 417.Pacific Atlantic Water Flow.(M+)  
 464.Can I Win.(H)  
 473.Matchsticks to Square.(M+)  
+679.24 Game.(H)  
 698.Partition to K Equal Sum Subsets.(M+)  
 959.Regions Cut By Slashes.(M+)  (not yet)  
 
