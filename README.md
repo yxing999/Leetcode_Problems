@@ -5,16 +5,6 @@
 127.Word Ladder.(M)  
 433.Minimum Genetic Mutation.(M)  
 752.Open the Lock.(M)  
- 
-### Backtracking:  
-22.Generate Parentheses.(M-)  
-90.Subsets II(including time analysis).(M-)  
-140.Word Break II.(H)  
-488.Zuma Game.(H)  
-491.Increaseing Subsequences.(M)  
-638.Shopping Offer.(M)  
-784.Letter Case Permutation.(M-)  
-996.Number of Squareful Array.(H-)  
 
 ### Binary Indexed Tree:
 307.Rnage Sum Query-Mutable.(M)  
@@ -28,14 +18,22 @@
 260.Single Number III.(M)   
 
 ### DFS
+22.Generate Parentheses.(M-)  
+90.Subsets II(including time analysis).(M-)  
 97.Interleaving String.(H)  
+140.Word Break II.(H)  
 301.Remove Invalid Parentheses.(H)  
 417.Pacific Atlantic Water Flow.(M+)  
 464.Can I Win.(H)  
 473.Matchsticks to Square.(M+)  
+488.Zuma Game.(H)  
+491.Increaseing Subsequences.(M)  
+638.Shopping Offer.(M)  
 679.24 Game.(H)  
 698.Partition to K Equal Sum Subsets.(M+)  
+784.Letter Case Permutation.(M-)  
 959.Regions Cut By Slashes.(M+)  (not yet)  
+996.Number of Squareful Array.(H-)  
 
 ### Divide and Conquer
 493.Reverse Pairs.(H)  
