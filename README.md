@@ -22,6 +22,7 @@
 90.Subsets II(including time analysis).(M-)  
 97.Interleaving String.(H)  
 140.Word Break II.(H)  
+282.Expression Add Operators.(H+)  
 301.Remove Invalid Parentheses.(H)  
 417.Pacific Atlantic Water Flow.(M+)  
 464.Can I Win.(H)  
@@ -156,7 +157,7 @@
 ### Union Find
 547.Friend Circles.(M)  
 947.Most Stone Removed with Same Row or Column.(M+)  
-952.Largest Component Size by Common Factor.(H+)  
+952.Largest Component Size by Common Factor.(H+)   
 959.Regions Cut By Slashes.(M+)  
   
 
