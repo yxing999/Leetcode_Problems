@@ -1,14 +1,3 @@
-/*
-Great problem based on a famous game.
-This is a problem about Recursion, or DFS, but I still classify it into Backtracking.
-Try to add new ball at every gap of board(same color, make the three-consecutive).
-Clean the board to remove consecutive balls when moving to a new branch.
-
-Time: O(n*2^n);
-Space: O(m).  n is board's size, m is hand's size.
-
-*/
-
 class Solution {
 public:
     int findMinStep(string board, string hand) {
