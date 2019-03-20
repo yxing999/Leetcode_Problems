@@ -137,6 +137,7 @@
 
 ### String
 43.Multiply String.(M-)  
+65.Valid_Number.(H)  
 71.Simplify Path.(M)  
 151.Reverse Words in String.(M)  
 214.Shortest Palindrome.(H)  
@@ -159,10 +160,3 @@
 947.Most Stone Removed with Same Row or Column.(M+)  
 952.Largest Component Size by Common Factor.(H+)   
 959.Regions Cut By Slashes.(M+)  
-  
-
-   
-
-
-
-
