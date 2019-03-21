@@ -3,6 +3,7 @@ public:
     int reversePairs(vector<int>& nums) {
         return mergesort(nums, 0, nums.size() - 1);
     }
+    
     int mergesort(vector<int> &nums, int left, int right) {
         if (left >= right) return 0;
         int mid = left + (right - left) / 2;
@@ -14,6 +15,7 @@ public:
         merge(nums, left, mid, right);
         return res;
     }
+    
     void merge(vector<int> &nums, int left, int mid, int right) {
         int n1 = mid - left + 1, n2 = right - mid;
         int L[n1], R[n2];
