@@ -36,7 +36,7 @@ Space is only allowed at head or trailing.
 This problem is best solved by [DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)(deterministic finite automation).  
 
 This is my first time to learn DFA, the solution refers to [https://leetcode.com/problems/valid-number/discuss/23728/A-simple-solution-in-Python-based-on-DFA]
-
+![alt text](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/String/65.Valid_Number/State.png)
 
 Time: O(n),  
 Space: O(n).  
