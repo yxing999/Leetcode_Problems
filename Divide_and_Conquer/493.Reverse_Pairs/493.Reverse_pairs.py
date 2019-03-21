@@ -1,6 +1,7 @@
 class Solution:
     def reversePairs(self, nums: 'List[int]') -> 'int':
         return self.mergesort(nums, 0, len(nums) - 1)
+    
     def mergesort(self, nums:'List[int]', left, right) -> 'int':
         if left >= right:
             return 0
