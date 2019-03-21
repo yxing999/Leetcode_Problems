@@ -50,7 +50,7 @@ public:
     
     void removeuary(string &s) {
         if (s.size() == 0) return;
-        if (s[0] == '+' ||s[0] == '-') {
+        if (s[0] == '+' || s[0] == '-') {
             s.erase(0, 1);
         }
     }

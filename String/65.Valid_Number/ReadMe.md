@@ -1,5 +1,9 @@
 ### 65.Valid Number:
+
 A very very good problem for an interview.  
+
+#### Solution 1:
+
 The biggest difficulty of this problem is you need to think of all criteria of valid number. Then judge it straightforwardly.  
 
 valid number may contains following characters:  
@@ -26,6 +30,13 @@ valid number may contains following characters:
        Head or trailing position is fine.  
 \
 Space is only allowed at head or trailing.  
+
+#### Solution 2:
+
+This problem is best solved by [DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)(deterministic finite automation).  
+
+This is my first time to learn DFA, the solution refers to [https://leetcode.com/problems/valid-number/discuss/23728/A-simple-solution-in-Python-based-on-DFA]
+
 
 Time: O(n),  
 Space: O(n).  
