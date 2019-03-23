@@ -116,7 +116,8 @@
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
 829.Consecutive Numbers Sum.(H-)  
-957.Prison Cells After N Days.(M)   
+957.Prison Cells After N Days.(M)  
+1015.Numbers with Repeated Digits.(H)  
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
