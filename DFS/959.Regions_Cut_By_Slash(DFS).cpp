@@ -10,8 +10,10 @@ So, there are n*n*4 parts in the grid.
 
 Create a array visited, with size n * n * 4, to revord the parts we visited.
 
-loop on grid(every parts), if the current part is not visited, res plus one,
-then set all parts that connected to this part to 1. 
+Loop on grid(every parts), if the current part is not visited, res plus one,
+then set all parts that connected to this part to 1.
+
+*Code is ugly. -_-
 
 Time: O(n^2),
 Space: O(n^2).
