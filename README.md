@@ -33,7 +33,7 @@
 679.24 Game.(H)  
 698.Partition to K Equal Sum Subsets.(M+)  
 784.Letter Case Permutation.(M-)  
-959.Regions Cut By Slashes.(M+)  (not yet)  
+959.Regions Cut By Slashes.(H)    
 996.Number of Squareful Array.(H-)  
 
 ### Divide and Conquer
@@ -161,4 +161,4 @@
 547.Friend Circles.(M)  
 947.Most Stone Removed with Same Row or Column.(M+)  
 952.Largest Component Size by Common Factor.(H+)   
-959.Regions Cut By Slashes.(M+)  
+959.Regions Cut By Slashes.(H)  
