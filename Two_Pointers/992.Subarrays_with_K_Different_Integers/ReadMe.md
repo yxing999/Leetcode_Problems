@@ -1,6 +1,6 @@
 ### 992.Subarrays with k Different Integers:
-Subarrays with exactly k integers =
-Subarrays with at most k integers - Subarrays with at most (k - 1) integers  
+`Subarrays with exactly k integers =
+Subarrays with at most k integers - Subarrays with at most (k - 1) integers`  
   
 Function to find number of subarrays with __AtMost__ k integers can be a template of sliding window.  
   
