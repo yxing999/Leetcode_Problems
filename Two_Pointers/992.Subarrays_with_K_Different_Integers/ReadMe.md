@@ -1,5 +1,5 @@
 ### 992.Subarrays with k Different Integers:
-`Subarrays with exactly k integers` =
+`Subarrays with k integers` =
 `Subarrays with at most k integers` - `Subarrays with at most (k - 1) integers`  
   
 Function to find number of subarrays with __AtMost__ k integers can be a template of sliding window.  
@@ -24,7 +24,7 @@ int subAtMostK(vector<int> &A, int K) {
     }
 ```
 
-`left` and `right` mark the side of sliding window. we move right along the input array, keep the subarray between `left` and `right` has no more k different integers(If more than k after moving `right`, move `left` to the right and update hash table).  
+`left` and `right` mark the sides of sliding window. we move right along the input array, keep the subarray between `left` and `right` has no more k different integers(If more than k after moving `right`, move `left` to the right and update hash table).  
 At every position `right`, there are `right - left + 1` subarrays meet the requirements(End at `right`, start at any position in [`left`, `right`]).  
   
 Time: O(n),  
