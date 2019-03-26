@@ -105,6 +105,7 @@
 343.Integer Break.(M)  
 397.Integer Replacement.(M)  
 478.Generate Random Point in a Circle.(M)  
+553.Optimal Division.(M-)  
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
 829.Consecutive Numbers Sum.(H-)  
