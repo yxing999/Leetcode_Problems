@@ -96,15 +96,7 @@
 ### Linked List
 138.Copy List with Random Pointer.(M+)  
 
-### Matrix:
-48.Rotate Image.(M-)  
-51.N-Queens.(H-)  
-73.Set Matrix Zeros.(M)   
-723.Candy Crush.(M+)  
-835.Image Overlap.(M)  
-1001.Grid Illumination.(H-)  
-
-### Others
+### Math
 12.Integer to Roman.(M)  
 42.Trapping Rain Water.(H-)  
 229.Majority Element II.(M+)  
@@ -118,6 +110,14 @@
 829.Consecutive Numbers Sum.(H-)  
 957.Prison Cells After N Days.(M)  
 1015.Numbers with Repeated Digits.(H)  
+
+### Matrix:
+48.Rotate Image.(M-)  
+51.N-Queens.(H-)  
+73.Set Matrix Zeros.(M)   
+723.Candy Crush.(M+)  
+835.Image Overlap.(M)  
+1001.Grid Illumination.(H-)  
 
 ### Priority Queue
 23.Merge K Sorted Lists.(M)  
