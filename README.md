@@ -7,7 +7,7 @@
 752.Open the Lock.(M)  
 
 ### Binary Indexed Tree:
-307.Rnage Sum Query-Mutable.(M)  
+307.Range Sum Query-Mutable.(M)  
 315.Count of Smaller Numbers After Self.(H)  
 
 ### Binary Search
@@ -19,6 +19,7 @@
 
 ### DFS
 22.Generate Parentheses.(M-)  
+79.Word Search.(M)  
 90.Subsets II(including time analysis).(M-)  
 97.Interleaving String.(H)  
 140.Word Break II.(H)  
@@ -90,7 +91,7 @@
 218.The Skyline Problem.(H)  
 253.Meeting Room II.(M)  
 370.Range_Addition.(M+)  
-435.Non-overlapping Invervals.(M)  
+435.Non-overlapping Intervals.(M)  
 850.Rectangle Area II.(H)  
 
 ### Linked List
