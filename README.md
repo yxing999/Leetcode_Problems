@@ -155,6 +155,7 @@
 15.3Sum.(M)  
 76.Minimum Window Substring.(H)  
 228.Summary ranges.(M-)  
+481.Magical String.(M)  
 487.Max Consecutive Ones II.(M)  
 927.Three Equal Parts.(H)  
 992.Subarrays with K Different Integers.(H)  
