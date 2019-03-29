@@ -150,6 +150,7 @@
 ### Tree
 98.Validate Binary Search Tree.(M-)  
 105.Construct Binary Tree from Preorder and Inorder Traversal.(M)  
+114.Flatten Binary Tree to Linked List.(M)  
 655.Print Binary Tree.(M-)  
 
 ### Two Pointers
