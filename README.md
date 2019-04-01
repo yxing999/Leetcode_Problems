@@ -132,6 +132,7 @@
 ### Recursion
 87.Scramble String.(H-)  
 397.Integer Replacement.(M-)  
+650.2 Keys Keyboard.(M)  
 808.Soup Servings.(M)  
 
 ### Sort
