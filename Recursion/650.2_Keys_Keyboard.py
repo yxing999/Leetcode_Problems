@@ -4,7 +4,7 @@ If we find an index j, where i % j == 0, that means we can get i from j by pasti
 plus the copy step, we need (i / j) steps in total.
 
 Time: O(n), 
-Space: O(n).
+Space: O(1).
 '''
 
 class Solution:
