@@ -3,7 +3,7 @@ At index i, traverse back from (i - 1),
 If we find an index j, where i % j == 0, that means we can get i from j by pasting (i / j) - 1 times,
 plus the copy step, we need (i / j) steps in total.
 
-Time: 反正小于O(n)，具体多少我证明不了，四舍五入就当是log(n)吧， 
+Time: 反正平均小于O(n)，具体多少我证明不了，四舍五入就当是log(n)吧， 
 Space: O(n).
 '''
 
