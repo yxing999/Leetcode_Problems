@@ -156,6 +156,9 @@
 114.Flatten Binary Tree to Linked List.(M)  
 655.Print Binary Tree.(M-)  
 
+### Trie
+212.Word Search II.(H)  
+
 ### Two Pointers
 15.3Sum.(M)  
 76.Minimum Window Substring.(H)  
