@@ -144,6 +144,7 @@
 
 ### Stack
 224.Basic Calculator.(H)  
+946.Validate Stack Sequences.(M-)  
 
 ### String
 43.Multiply String.(M-)  
