@@ -71,6 +71,7 @@
 920.Number of Music Playlists.(H)  
 956.Tallest BillBoard.(H)   
 983.Minimum Cost For Tickets.(M)  
+1000.Minimum Cost to Merge Stones.(H+)  
 
 ### Greedy
 45.Jump Game II.(H)  
