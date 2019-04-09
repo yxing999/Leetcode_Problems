@@ -18,7 +18,7 @@ The correct strategy is DP.
  dp[i][j][k] = min(dp[i][mid][1], dp[mid + 1][j][k - 1])
  (mid is within [i, j))
  ```
- initial condition is `dp[i][j][j - i + 1] = 0`
+ Initial condition is `dp[i][j][j - i + 1] = 0`  
  Another tough thing is handle edge:  
  `k` cannot be bigger than `K`. 
  `k` cannot be bigger than `j - i + 1`.
