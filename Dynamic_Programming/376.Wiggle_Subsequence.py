@@ -1,7 +1,7 @@
 '''
 up marks current max wiggle subsequence with up end, 
 down marks current max wiggle subsequence with down end.
-they are like t pointers.
+they are like two pointers.
 
 loop on input nums, 
 encounter up pair, up = down + 1,
