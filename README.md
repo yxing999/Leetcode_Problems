@@ -72,6 +72,7 @@
 956.Tallest BillBoard.(H)   
 983.Minimum Cost For Tickets.(M)  
 1000.Minimum Cost to Merge Stones.(H+)  
+1027.Longest Arithmetic Sequence.(M+)  
 
 ### Greedy
 45.Jump Game II.(H)  
