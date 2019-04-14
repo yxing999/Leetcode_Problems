@@ -66,6 +66,7 @@
 416.Partition Equal Subset Sum.(M+)  
 474.Ones and Zeros(M)  
 494.Target Sum.(M)  
+629.K Inverse Pairs Array.(H)  
 712.Minimum ASCII Delete Sum for Two Strings.(M)  
 741.Cherry Pickup.(H+)  
 920.Number of Music Playlists.(H)  
