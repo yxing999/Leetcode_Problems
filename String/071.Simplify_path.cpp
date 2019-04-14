@@ -1,7 +1,7 @@
 /*
 A medium problem about string.
 To simplify the input string, we should extract elements out of '/'s.
-for every element btween '/'s or on the front or end:
+for every element between '/'s or on the front or end:
 if it is a directory name, push it into the stack,
 it it is a "..", "." or "", handle it according to relevant rules.
 In the end, construct the result string from the stack we built just now.
