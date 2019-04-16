@@ -118,6 +118,7 @@
 553.Optimal Division.(M-)  
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
+794.Valid Tic-Tac-Toe State.(M-)  
 798.Smallest Rotation with Highest Score.(H)  
 829.Consecutive Numbers Sum.(H-)  
 957.Prison Cells After N Days.(M)  
