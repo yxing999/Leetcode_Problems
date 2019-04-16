@@ -18,6 +18,13 @@
 137.Single Number II.(M)  
 260.Single Number III.(M)   
 
+### Design:
+146.LRU Cache.(H-)   
+295.Find Median from Data Stream.(H-)   
+355.Design Twitter.(M+)  
+460.LFU Cache.(H+)  
+622.Design Circular Queue.(M) 
+
 ### DFS
 22.Generate Parentheses.(M-)  
 79.Word Search.(M)  
@@ -40,18 +47,12 @@
 996.Number of Squareful Array.(H-)  
 
 ### Divide and Conquer
-493.Reverse Pairs.(H)  
-
-### Design:
-146.LRU Cache.(H-)   
-295.Find Median from Data Stream.(H-)   
-355.Design Twitter.(M+)  
-460.LFU Cache.(H+)  
-622.Design Circular Queue.(M)     
+493.Reverse Pairs.(H)      
 
 ### Dynamic Programming:
 10.Regular Expression Matching.(H)  
 72.Edit Distance.(H)  
+91.Decode_Ways.(M)  
 97.Interleaving String.(H)  
 123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)  
@@ -109,6 +110,7 @@
 42.Trapping Rain Water.(H-)  
 229.Majority Element II.(M+)  
 238.Product of Array Except Self.(M)  
+264.Ugly Number II.(M)  
 327.Count of Range Sum.(H)  
 343.Integer Break.(M)  
 397.Integer Replacement.(M)  
@@ -116,6 +118,7 @@
 553.Optimal Division.(M-)  
 735.Asteroid Collision.(M-)  
 754.Reach a Number.(M)  
+798.Smallest Rotation with Highest Score.(H)  
 829.Consecutive Numbers Sum.(H-)  
 957.Prison Cells After N Days.(M)  
 1015.Numbers with Repeated Digits.(H)  
@@ -142,10 +145,12 @@
 
 ### Sort
 269.Alien Dictionary.(H)  
+324.Wiggle_Sort_II.(M)  
 862.Most Porfit Assigning Work.(M)  
 
 ### Stack
 224.Basic Calculator.(H)  
+678.Valid Parenthesis String.(M)  
 946.Validate Stack Sequences.(M-)  
 
 ### String
