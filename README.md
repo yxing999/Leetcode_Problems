@@ -127,7 +127,8 @@
 ### Matrix:
 48.Rotate Image.(M-)  
 51.N-Queens.(H-)  
-73.Set Matrix Zeros.(M)   
+73.Set Matrix Zeros.(M)  
+221.Maximal Square.(M)  
 723.Candy Crush.(M+)  
 835.Image Overlap.(M)  
 1001.Grid Illumination.(H-)  
