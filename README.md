@@ -143,7 +143,7 @@
 87.Scramble String.(H-)  
 397.Integer Replacement.(M-)  
 650.2 Keys Keyboard.(M)  
-808.Soup Servings.(M)  
+[808.Soup Servings.(M)](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/Recursion/808.Soup_Servings.cpp)  
 
 ### Sort
 269.Alien Dictionary.(H)  
