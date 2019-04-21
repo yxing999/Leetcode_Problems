@@ -74,7 +74,7 @@
 956.Tallest BillBoard.(H)   
 983.Minimum Cost For Tickets.(M)  
 1000.Minimum Cost to Merge Stones.(H+)  
-1027.Longest Arithmetic Sequence.(M+)  
+[1027.Longest Arithmetic Sequence.(M+)](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/Dynamic_Programming/1027.Longest_Arithmetic_Sequence)  
 
 ### Greedy
 45.Jump Game II.(H)  
