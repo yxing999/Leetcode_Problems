@@ -10,23 +10,17 @@ Space:O(1)
 '''
 
 class Solution:
-    def maxProduct(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        n=len(nums)
-        if n==0:
-            return 0
-        curmax=premax=nums[0]
-        curmin=premin=nums[0]
-        res=nums[0]
+    def maxProduct(self, nums: List[int]) -> int:
+        n = len(nums)
+        if n == 0: return 0
+        premax = curmax = nums[0]
+        premin = curmin = nums[0]
+        res = nums[0]
         
-        for i in range(1,n):
-            curmax=max(nums[i],nums[i]*premax,nums[i]*premin)
-            curmin=min(nums[i],nums[i]*premax,nums[i]*premin)
-            res=max(res,curmax)
-            premax=curmax
-            premin=curmin
-        
+        for i in range(1, n) :
+            curmax = max(nums[i], premin * nums[i], premax * nums[i])
+            curmin = min(nums[i], premin * nums[i], premax * nums[i])
+            res = max(res, curmax)
+            premax, premin = curmax, curmin
+            
         return res

@@ -56,7 +56,7 @@
 97.Interleaving String.(H)  
 123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)  
-152.Maximum Product Subarray.(M-)  
+[152.Maximum Product Subarray.(M-)](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/Dynamic_Programming/152.Maximum_Product_Subarray.py)  
 188.Best Time to Buy and Sell Stock IV.(H)  
 213.House Robber II.(M)  
 279.Perfect Squares.(M-)  
