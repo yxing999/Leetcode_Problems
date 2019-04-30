@@ -1,3 +1,4 @@
+### 446 Arithmetic Slices II - Subsequence:
 record structure: <index, <dif, count>>.  
 At index i dif with index j, the number of subsequences that satisfy the requirement is `record[j][dif]`.  
 `record[i][dif]++` means the new subsequence [j, i], whose length is 2.

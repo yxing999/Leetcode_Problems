@@ -40,6 +40,7 @@
 491.Increasing Subsequences.(M)  
 494.Target Sum.(M)  
 638.Shopping Offer.(M)  
+664.Strange Printer.(H)  
 679.24 Game.(H)  
 698.Partition to K Equal Sum Subsets.(M+)  
 784.Letter Case Permutation.(M-)  
