@@ -55,6 +55,7 @@
 72.Edit Distance.(H)  
 91.Decode_Ways.(M)  
 97.Interleaving String.(H)  
+115.Distinct Subsequences.(H-)  
 123.Best Time to Buy and Sell Stock III.(H)  
 140.Word Break II.(H)  
 [152.Maximum Product Subarray.(M-)](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/Dynamic_Programming/152.Maximum_Product_Subarray.py)  
