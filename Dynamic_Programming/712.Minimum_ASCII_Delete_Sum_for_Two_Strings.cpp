@@ -1,5 +1,5 @@
 /*
-Problem about two string trasfer, go with DP.
+Problem about two string transfer, go with DP.
 At dp[i][j], if s1[i-1]==s2[j-1], dp[i][j]=dp[i-1][j-1];
 if s1[i-1]!=s2[j-1], dp[i][j] can come from dp[i-1][j] by deleting s1[i-1],
 or dp[i][j-1] by deleting s2[j-1].

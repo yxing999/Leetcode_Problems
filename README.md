@@ -74,7 +74,7 @@
 576.Out of Boundary Paths.(M)  
 583.Delete Operation for Two Strings.(M)  
 629.K Inverse Pairs Array.(H)  
-712.Minimum ASCII Delete Sum for Two Strings.(M)  
+[712.Minimum ASCII Delete Sum for Two Strings.(M)](https://github.com/yuxuan940905/Leetcode_Problems/blob/master/Dynamic_Programming/712.Minimum_ASCII_Delete_Sum_for_Two_Strings.cpp)  
 741.Cherry Pickup.(H+)  
 920.Number of Music Playlists.(H)  
 956.Tallest BillBoard.(H)   
